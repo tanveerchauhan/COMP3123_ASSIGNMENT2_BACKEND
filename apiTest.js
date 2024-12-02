@@ -12,9 +12,9 @@ const apiClient = axios.create({
 const testSignup = async () => {
   try {
     const response = await apiClient.post('/user/signup', {
-      username: 'mantejsinghsamra',
-      email: 'mantejsinghsamra@example.com',
-      password: 'mantej457',
+      username: 'tanveerchauhan',
+      email: 'tanveerch3011@gmail.com',
+      password: '12345',
     });
     console.log('Signup Response:', response.data);
   } catch (error) {

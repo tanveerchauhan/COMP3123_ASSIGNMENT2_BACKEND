@@ -1,5 +1,5 @@
 {
-  "name": "101410416_comp3123_assignment1",
+  "name": "101451948_comp3123_assignment1",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,9 @@
     "express": "^4.21.0",
     "express-validator": "^7.2.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.7.0"
+    "mongoose": "^8.8.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
